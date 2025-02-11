@@ -1,4 +1,4 @@
-package relacion10;
+package relacion10.ejercicio1;
 import java.util.*;
 import relacion9.ejercicio4.*;
 
